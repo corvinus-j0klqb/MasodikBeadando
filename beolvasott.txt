@@ -1,0 +1,4 @@
+Fri Mar 26 21:13:48 CET 2021 : 
+Fri Mar 26 21:24:48 CET 2021 : Helló
+Fri Mar 26 21:27:07 CET 2021 : Helló kliens 2
+Timestamp: 2021-03-26 21:30:09.459 : Halika
