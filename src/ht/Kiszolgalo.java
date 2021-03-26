@@ -34,7 +34,6 @@ public void run() {
 		System.out.println(timeStamp + " : " + line);
 		pw.append(timeStamp + " : " + line + "\n");
 
-		
 		pw.flush();
 		bf.close();
 		pw.close();
